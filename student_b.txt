@@ -1,4 +1,1 @@
 echo "Hello from Student B!"
-git add student_b.txt
-git commit -m "Added student_b.txt"
-git push origin feature-b
