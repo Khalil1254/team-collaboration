@@ -1,0 +1,4 @@
+echo "Hello from Student C!"
+git add student_c.txt
+git commit -m "Added student_c.txt"
+git push origin feature-c
